@@ -1,0 +1,50 @@
+.ice{
+	background:url(../img/creamy.jpg)no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+.ice div{
+	text-align:center;
+	padding:50px;
+	color:#f4f0bb;
+}
+.fondo{
+	background:rgba(0,0,0,.5);
+}
+header h4,.fondo h1,.text_creamy h3,.about h2,.icons h3,footer{
+	font-family:serif;
+}
+.text_creamy{
+	text-align:center;
+}
+.creamy,.icons{
+	background:#f4f0bb;
+	color:#da2c38;
+}
+.about,footer,header{
+	background:#da2c38;
+	color:#f4f0bb;
+}
+header h4,header a{
+	color:#f4f0bb;
+}
+header h4{
+	margin:0;
+}
+.creamy{
+	text-align: center;
+	padding:20px;
+}
+.about{
+	text-align: center;
+	padding:30px 60px;
+}
+.icons{
+	padding:40px;
+}
+.icons .col-md-4{
+	text-align:center;
+}
+.icons i{
+	font-size:100px;
+}
